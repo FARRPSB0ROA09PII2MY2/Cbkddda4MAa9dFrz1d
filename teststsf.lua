@@ -1,3 +1,0 @@
- WLIDs = {
-    ["C4D47F70-05AD-425F-BB6D-F52C21E60F76"] = true,
-}
